@@ -1,0 +1,22 @@
+.panda-info{
+    background-color: #fceae8;
+}
+.panda-button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.catagories img{
+    width: 100px;
+}
+.watch-left{
+    background-color: orange;
+}
+.watch-middle{
+    background-color: orchid;
+}
+.watch-right{
+    background-color: blue;
+}
